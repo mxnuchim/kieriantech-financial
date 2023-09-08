@@ -25,7 +25,7 @@ You also need a running instance of MongoDB, and you should have a MongoDB conne
 
 You can explore and interact with the API using Swagger UI, which provides a user-friendly interface for testing and understanding the available endpoints and their functionality.
 
-- **Swagger UI**: [API Documentation](http://localhost:3000/api/docs/)
+- **Swagger UI**: [http://localhost:3000/api/docs/](http://localhost:3000/api/docs/)
 
 Use the Swagger UI link above to access the API documentation. It allows you to try out API requests, view request and response details, and understand how to use the various endpoints provided by the application.
 
