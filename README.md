@@ -7,10 +7,7 @@ Kieriantech Financial is a secure Nest.js-based API service for managing financi
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Endpoints](#endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
